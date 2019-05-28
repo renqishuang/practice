@@ -4,7 +4,7 @@ function getName(){
 }
 var a = [1,2,4];
 var b = {
-    age:18,
+    age:19,
     name:'李四'
 }
 var c = 'HelloWorld';
