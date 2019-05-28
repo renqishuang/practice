@@ -4,7 +4,7 @@ function getName(){
 }
 var a = '哈哈, 冲突起来吧';
 var b = {
-    age:20,
+    age:22,
     name:'李四'
 }
 var c = 'HelloWorld';
