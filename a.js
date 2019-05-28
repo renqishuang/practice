@@ -2,7 +2,7 @@ var name = 'rqs';
 function getName(){
     return name;
 }
-var a = [1,2,3];
+var a = [1,2,4];
 var b = {
     age:18,
     name:'李四'
